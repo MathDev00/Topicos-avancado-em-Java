@@ -1,6 +1,7 @@
-# Tópicos avançados em Java
+# Tópicos em Java
 
-- List 
+- List
 - Map 
 - Recursividade
+- Tratamento de erros
 - Introdução ao Spring Boot
